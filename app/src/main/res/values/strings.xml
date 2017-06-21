@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="button_placeholder_text">button</string>
+    <string name="question_placeholder_text">How many licks does it take to get to the center of a Tootsie-Pop?</string>
+</resources>
